@@ -65,5 +65,19 @@ All 3D models must be in **VTK PolyData (.vtk)** format.
 
 ---
 
+## Screenshots
+
+### Red Material – Soft Lighting
+![Red sphere](screenshots/red_sphere1.png)
+![Red sphere](screenshots/red_sphere2.png)
+
+### Green Material – Warm Lighting
+![Green sphere](screenshots/green_sphere1.png)
+![Green sphere](screenshots/green-sphere2.png)
+
+### Wireframe
+![Green sphere](screenshots/wireframe.png)
+
+
 **Author:** Hannah Kuklovska
 **Year:** 2025  
